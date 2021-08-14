@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sooraj-Webros/static/css/main.7bd6158d.chunk.css",
+    "main.js": "/Sooraj-Webros/static/js/main.e110e932.chunk.js",
+    "main.js.map": "/Sooraj-Webros/static/js/main.e110e932.chunk.js.map",
+    "runtime-main.js": "/Sooraj-Webros/static/js/runtime-main.8f181665.js",
+    "runtime-main.js.map": "/Sooraj-Webros/static/js/runtime-main.8f181665.js.map",
+    "static/css/2.c8806456.chunk.css": "/Sooraj-Webros/static/css/2.c8806456.chunk.css",
+    "static/js/2.559f1f47.chunk.js": "/Sooraj-Webros/static/js/2.559f1f47.chunk.js",
+    "static/js/2.559f1f47.chunk.js.map": "/Sooraj-Webros/static/js/2.559f1f47.chunk.js.map",
+    "static/js/3.b70950c4.chunk.js": "/Sooraj-Webros/static/js/3.b70950c4.chunk.js",
+    "static/js/3.b70950c4.chunk.js.map": "/Sooraj-Webros/static/js/3.b70950c4.chunk.js.map",
+    "index.html": "/Sooraj-Webros/index.html",
+    "static/css/2.c8806456.chunk.css.map": "/Sooraj-Webros/static/css/2.c8806456.chunk.css.map",
+    "static/css/main.7bd6158d.chunk.css.map": "/Sooraj-Webros/static/css/main.7bd6158d.chunk.css.map",
+    "static/js/2.559f1f47.chunk.js.LICENSE.txt": "/Sooraj-Webros/static/js/2.559f1f47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f181665.js",
+    "static/css/2.c8806456.chunk.css",
+    "static/js/2.559f1f47.chunk.js",
+    "static/css/main.7bd6158d.chunk.css",
+    "static/js/main.e110e932.chunk.js"
+  ]
+}
